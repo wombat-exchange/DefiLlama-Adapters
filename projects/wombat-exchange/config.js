@@ -49,17 +49,6 @@ module.exports = {
       fUSD: "0x956454C7BE9318863297309183C79b793D370401",
     },
   },
-  ethereum: {
-    wom: "0xc0B314a8c08637685Fc3daFC477b92028c540CFB",
-    veWom: "0x0000000000000000000000000000000000000000",
-    pools: {
-      frax: "0x9c02eaf31EFE3FeE36ebE5AEBCa12Ca979dF25cC",
-      agEUR: "0x0020A8890e723CD94660A5404C4BCCBB91680db6",
-      frxETH: "0x3161f40EA6c0C4cC8b2433d6D530EF255816E854",
-      wstETH: "0xF8E32cA46AC28799c8FB7DCe1Ac11A4541160734",
-      ETHx: "0x647CC8816C2d60A5fF4d1ffeF27a5b3637d5ac81",
-    },
-  },
   hallmarks: [
     [1662417125, "Liquidity Mining Start"],
     [1680674400, "Arbitrum Launching"],
